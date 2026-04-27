@@ -38,8 +38,6 @@ This repository contains a comprehensive list of popular open-source, self-hosta
 
 ## Self-Hosting Stack Recommendations
 
-## Self-Hosting Stack Recommendations
-
 <details>
 <summary>Click to expand</summary>
 
