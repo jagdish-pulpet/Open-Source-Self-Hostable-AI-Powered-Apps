@@ -38,6 +38,9 @@ This repository contains a comprehensive list of popular open-source, self-hosta
 
 ## Self-Hosting Stack Recommendations
 
+<details>
+<summary>Click to expand</summary>
+
 | Purpose           | Recommended Tool                                                 |
 | ----------------- | ---------------------------------------------------------------- |
 | **LLM Serving**   | Ollama, Text Generation WebUI, vLLM, HuggingFace TGI             |
@@ -46,7 +49,12 @@ This repository contains a comprehensive list of popular open-source, self-hosta
 | **GPU Support**   | NVIDIA Docker runtime, ROCm (AMD), llama.cpp (CPU fallback)      |
 | **Access & Auth** | Authentik, Cloudflare Tunnel, Tailscale, OAuth2 Proxy            |
 
+</details>
+
 ## Comparison Table (Top 5 by Category)
+
+<details>
+<summary>Click to expand</summary>
 
 | Category  | App                       | Local LLM? | Docker? | UI? | Extensible? |
 | --------- | ------------------------- | ---------- | ------- | --- | ----------- |
@@ -56,11 +64,18 @@ This repository contains a comprehensive list of popular open-source, self-hosta
 | Voice     | XTTS WebUI / Whisper      | ✅         | ✅      |
 | Agents    | MemGPT / Open Interpreter | ✅         | ✅      | ✅  | ✅✅        |
 
+</details>
+
 ## What's Next?
+
+<details>
+<summary>Click to expand</summary>
 
 - **Multi-modal AI OS** — Apps like **LobeChat**, **Dify**, and **FastGPT** are evolving into full AI OS platforms.
 - **On-device AI** — Tools like **MLC LLM**, **llama.cpp**, and **ONNX Runtime** enable mobile/edge AI.
 - **Small Language Models** — Phi-3, Gemma, TinyLlama — usable on laptops with 16GB RAM.
+
+</details>
 
 ---
 
