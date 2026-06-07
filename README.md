@@ -56,9 +56,9 @@ This repository contains a comprehensive list of popular open-source, self-hosta
 | Category  | App                       | Local LLM? | Docker? | UI? | Extensible? |
 | --------- | ------------------------- | ---------- | ------- | --- | ----------- |
 | Chat UI   | LibreChat / Open WebUI    | ✅         | ✅      | ✅  | ✅          |
-| Docs QA   | PrivateGPT / Quivr        | ✅         | ✅      |
+| Docs QA   | PrivateGPT / Quivr        | ✅         | ✅      |     |             |
 | Image Gen | ComfyUI / InvokeAI        | ✅         | ✅      | ✅  | ✅✅        |
-| Voice     | XTTS WebUI / Whisper      | ✅         | ✅      |
+| Voice     | XTTS WebUI / Whisper      | ✅         | ✅      |     |             |
 | Agents    | MemGPT / Open Interpreter | ✅         | ✅      | ✅  | ✅✅        |
 
 </details>
